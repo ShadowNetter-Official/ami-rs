@@ -2,6 +2,8 @@
 
 Tired of whoami. Try out these alternatives. Written in **Rust** 🦀
 
+credits to https://www.reddit.com/user/Kat1eWolf/ for the idea
+
 ---
 
 ![Overview](screenshots/overview.png)
