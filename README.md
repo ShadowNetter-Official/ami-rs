@@ -39,12 +39,6 @@ cp target/release/whenami ~/.cargo/bin/
 
 ---
 
-## Usage
-
-![Usage](screenshots/ami-rshelp.png)
-
----
-
 ## Removing
 
 You can remove ami-rs with:
